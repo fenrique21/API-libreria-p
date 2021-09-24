@@ -1,0 +1,2 @@
+class Tecnica < ApplicationRecord
+end

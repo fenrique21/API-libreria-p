@@ -1,0 +1,2 @@
+class ProductoHasFotografium < ApplicationRecord
+end

@@ -1,0 +1,2 @@
+class ProductoHasTecnica < ApplicationRecord
+end
