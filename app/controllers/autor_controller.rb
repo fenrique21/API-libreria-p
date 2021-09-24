@@ -11,7 +11,6 @@ class AutorController < ApplicationController
         render 200, json: @autor
         
     end
-
     def create
         @autor = Autor.new(autor_params)
         
