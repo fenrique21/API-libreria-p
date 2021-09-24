@@ -1,0 +1,2 @@
+class Fotografium < ApplicationRecord
+end
